@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "681482688095-bbdjpqhgbt4k38vc6gi3tfgrq92k8o9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone_tutorial",
+            "certificate_hash": "d856537376d0cfc4f402ab00d7c23e6224223d00"
+          }
+        },
+        {
           "client_id": "681482688095-421v77c33jln6rijlvsde0javfn3hhp9.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "681482688095-421v77c33jln6rijlvsde0javfn3hhp9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "681482688095-ui4m9hp5eauooetpln50igrf0k7mvetq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomCloneTutorial"
+              }
             }
           ]
         }
